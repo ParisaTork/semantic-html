@@ -91,3 +91,10 @@ Jellyfish apocalypse is coming claim scientists
 - Culture
 - Tech
 ```
+## Extra Checks
+
+[x] The page has a logical tab order
+[x] Interactive controls are keyboard focusable
+[x] Interactive elements indicate their purpose and state
+[x] User focus is not accidentally trapped in a region
+[x] Custom controls have associated labels
