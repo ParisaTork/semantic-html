@@ -66,7 +66,7 @@ Forms: forms are marked up correctly so people can interact with them using only
 ```
 13. [x] As a user I would like to see a link with more information so I can read more about the subject matter if interested: ```For more information on Web Accessibility view: https://www.w3.org/WAI/test-evaluate/preliminary/```
 14. [x] As a user I would like to see another sub-heading that I can easily navigate to that indicates what the next section of text is about: ```Conclusion```
-15. [] As a user I would like to see text relating to the above header:
+15. [x] As a user I would like to see text relating to the above header:
 ```
 By spending just a little more time on getting the building blocks of the web right, developers can help create an Internet that works for everyone.
 ```
