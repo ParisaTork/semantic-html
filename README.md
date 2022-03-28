@@ -72,7 +72,7 @@ By spending just a little more time on getting the building blocks of the web ri
 ```
 16. [x] As a user I would like to see another sub-heading that I can easily navigate to that indicates what the next section of text is about:
 ```More stories```
-17. [] As a user I would like to see a list of links to more articles I could read:
+17. [x] As a user I would like to see a list of links to more articles I could read:
 ```
 Tokyo Olympics: gold for Great Britain!
 A day in the life of
@@ -83,7 +83,7 @@ Safety meeting ends in accident
 Russian traffic officer with golden toilet is arrested after police uncover massive bribery scheme
 Jellyfish apocalypse is coming claim scientists
 ```
-18. [] As a user I would like to see a footer with more links and a company logo:
+18. [x] As a user I would like to see a footer with more links and a company logo:
 ```
 - News
 - Opinion
