@@ -98,3 +98,4 @@ Jellyfish apocalypse is coming claim scientists
 [x] Interactive elements indicate their purpose and state
 [x] User focus is not accidentally trapped in a region
 [x] Custom controls have associated labels
+[x] HTML5 landmark elements are used to improve navigation
