@@ -38,7 +38,7 @@ Jim Eggs (link that opens up an email to jimmy.eggs@hotmail.com)
 8. [x] As a user I would like to see text article text broken up so I can navigate to different sections on the page and easily know what which section is about:
 ```Introduction```
 
-9. [] As a user I would like to read the part of the article associated with the Introduction:
+9. [x] As a user I would like to read the part of the article associated with the Introduction:
 ```
 Tim Berners Lee dreamt of a World Wide Web that would be free and accessible to everyone. Sadly, the modern web is littered with poorly designed websites and difficult to navigate code (for both developers and users). This often comes down to a lack of understanding around different user needs.
 Designing pages that are accessible for everyone shouldn’t be too difficult. The developers at Tech Returners News have collated an ‘easy wins' checklist for Web page accessibility.
