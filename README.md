@@ -5,7 +5,7 @@ Practicing creating a newspaper article in semantic HTML to improve accessibilit
 
 The page must have the following elements (in no particular order or the order of your choice):
 
-1. [] As a user I would like to see the newspaper name that links back to the homepage:
+1. [x] As a user I would like to see the newspaper name that links back to the homepage:
 ```Tech Returner News```
 
 2. [] As a user I would like to see a Navbar on the page that I can easily navigate to different pages with such as:
