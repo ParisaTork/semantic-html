@@ -21,7 +21,7 @@ However, if you are having trouble reading this website you can change the way i
 
 (Checkbox) Allow flashing elements Untick this to disable flashing and moving elements
 ```
-4. [] As a user I would like to see the name of the article so I can easily understand what the page is about:
+4. [x] As a user I would like to see the name of the article so I can easily understand what the page is about:
 ```Accessibility Features: Easy Wins```
 
 5. [] As a user I would like to see a sub-header with more information about the article:
