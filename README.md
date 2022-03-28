@@ -24,7 +24,7 @@ However, if you are having trouble reading this website you can change the way i
 4. [x] As a user I would like to see the name of the article so I can easily understand what the page is about:
 ```Accessibility Features: Easy Wins```
 
-5. [] As a user I would like to see a sub-header with more information about the article:
+5. [x] As a user I would like to see a sub-header with more information about the article:
 ```Handy tips on how to create accessible websites for everyone```
 
 6. [] As a user I would like to see author information:
