@@ -44,7 +44,7 @@ Tim Berners Lee dreamt of a World Wide Web that would be free and accessible to 
 Designing pages that are accessible for everyone shouldn’t be too difficult. The developers at Tech Returners News have collated an ‘easy wins' checklist for Web page accessibility.
 Keep this guide handy... When creating your own websites you can check these criteria off the list!
 ```
-10. [] As a user I would like to see links to other news articles thematically relating to the article I am currently on: ```What would a truly accessible city look like? Read more...```
+10. [x] As a user I would like to see links to other news articles thematically relating to the article I am currently on: ```What would a truly accessible city look like? Read more...```
 11. [] As a user I would like to see another sub-heading that I can easily navigate to that indicates what the next section of text is about: ```Accessibility Checks:```
 12. [] As a user I would like to see text relating to the above header:
 ```
