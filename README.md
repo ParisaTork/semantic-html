@@ -46,7 +46,7 @@ Keep this guide handy... When creating your own websites you can check these cri
 ```
 10. [x] As a user I would like to see links to other news articles thematically relating to the article I am currently on: ```What would a truly accessible city look like? Read more...```
 11. [x] As a user I would like to see another sub-heading that I can easily navigate to that indicates what the next section of text is about: ```Accessibility Checks:```
-12. [] As a user I would like to see text relating to the above header:
+12. [x] As a user I would like to see text relating to the above header:
 ```
 Heading elements & Page Titles: HTML heading elements have been used to represent page structure, supporting assistive technologies that allow page navigation from heading to heading.
 
