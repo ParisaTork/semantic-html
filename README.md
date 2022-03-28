@@ -8,7 +8,7 @@ The page must have the following elements (in no particular order or the order o
 1. [x] As a user I would like to see the newspaper name that links back to the homepage:
 ```Tech Returner News```
 
-2. [] As a user I would like to see a Navbar on the page that I can easily navigate to different pages with such as:
+2. [x] As a user I would like to see a Navbar on the page that I can easily navigate to different pages with such as:
 ```News, Opinion, Tech, Sport, Culture, About, Lifestyle, Jobs```
 
 3. [] As a user I would like to see a text box that offers me accessibility options so I can choose how I interact with the page:
