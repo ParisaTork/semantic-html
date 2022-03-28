@@ -11,13 +11,11 @@ The page must have the following elements (in no particular order or the order o
 2. [x] As a user I would like to see a Navbar on the page that I can easily navigate to different pages with such as:
 ```News, Opinion, Tech, Sport, Culture, About, Lifestyle, Jobs```
 
-3. [] As a user I would like to see a text box that offers me accessibility options so I can choose how I interact with the page:
+3. [x] As a user I would like to see a text box that offers me accessibility options so I can choose how I interact with the page:
 ```
 Preferences
 
-We aim to make this site accessible to a wide audience and to ensure a great experience for all users by conforming to World Wide Web
-
-Consortium accessibility guidelines (W3C's WCAG)
+We aim to make this site accessible to a wide audience and to ensure a great experience for all users by conforming to World Wide Web Consortium accessibility guidelines (W3C's WCAG)
 
 However, if you are having trouble reading this website you can change the way it looks or disable some of its functionalities.
 
