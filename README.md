@@ -27,7 +27,7 @@ However, if you are having trouble reading this website you can change the way i
 5. [x] As a user I would like to see a sub-header with more information about the article:
 ```Handy tips on how to create accessible websites for everyone```
 
-6. [] As a user I would like to see author information:
+6. [x] As a user I would like to see author information:
 ```
 Jim Eggs (link that opens up an email to jimmy.eggs@hotmail.com)
 04.08.21
