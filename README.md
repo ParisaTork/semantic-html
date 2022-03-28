@@ -35,7 +35,7 @@ Jim Eggs (link that opens up an email to jimmy.eggs@hotmail.com)
 
 7. [x] As a user I would like to see an image that adds colour and interest to the page: [Link](https://drive.google.com/file/d/1Np7RIF0iANdU2jQe1RQKn_p4tKhyIBg5/view)
 
-8. [] As a user I would like to see text article text broken up so I can navigate to different sections on the page and easily know what which section is about:
+8. [x] As a user I would like to see text article text broken up so I can navigate to different sections on the page and easily know what which section is about:
 ```Introduction```
 
 9. [] As a user I would like to read the part of the article associated with the Introduction:
